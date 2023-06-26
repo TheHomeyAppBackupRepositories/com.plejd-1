@@ -1,0 +1,5 @@
+{
+  "device_offline": "Dit apparaat is momenteel offline, controleer de gateway en de netwerkverbinding",
+  "device_removed": "Dit apparaat is niet meer beschikbaar, overweeg om het ook uit Homey te verwijderen",
+  "unknown": "Onbekend"
+}

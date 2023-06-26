@@ -1,0 +1,5 @@
+{
+  "device_offline": "Este dispositivo está actualmente fuera de línea, verifique la puerta de enlace y su conexión de red",
+  "device_removed": "Este dispositivo ya no está disponible, considere eliminarlo también de Homey",
+  "unknown": "Desconocido"
+}

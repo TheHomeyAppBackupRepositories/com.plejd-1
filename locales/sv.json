@@ -1,0 +1,5 @@
+{
+  "device_offline": "Den här enheten är för närvarande offline. Kontrollera gatewayen och dess nätverksanslutning",
+  "device_removed": "Den här enheten är inte längre tillgänglig, överväg att ta bort den från Homey också",
+  "unknown": "Okänd"
+}

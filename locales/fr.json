@@ -1,0 +1,5 @@
+{
+  "device_offline": "Cet appareil est actuellement hors ligne, veuillez vérifier la passerelle et sa connexion réseau",
+  "device_removed": "Cet appareil n'est plus disponible, pensez également à le supprimer de Homey",
+  "unknown": "Inconnu"
+}
